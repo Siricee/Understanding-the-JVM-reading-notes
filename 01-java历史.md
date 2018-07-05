@@ -1,7 +1,7 @@
-##第一部分 走进java
-####Author：Sirice
+## 第一部分 走进java
+#### Author：Sirice
 
-###一、java技术体系
+### 一、java技术体系
 
 传统意义来看java分为以下几个组成部分：
 - java程序设计语言
@@ -20,7 +20,7 @@ java技术体系可以分为4个平台
 - Java SE(Standard Edition)
 - Java EE(Enterprise Edition)
 
-###二、java发展历史
+### 二、java发展历史
 <table>
 <thead>
 <tr>
@@ -130,7 +130,7 @@ java技术体系可以分为4个平台
 </tr>
 </tbody></table>
 
-###三、jvm发展历史
+### 三、jvm发展历史
 1.Sun Classic / Exact VM - 世界第一款商用虚拟机
 
 1996年1月，Sun公司发布JDK1.0，所含的就是这款虚拟机。这个虚拟机只能用解释器的方式执行java代码，但是可以外挂JIT编译器，然而编译器和解释器不能协同工作，“java语言很慢”的印象就是这时候在用户心中树立的。
@@ -154,7 +154,7 @@ IBM V9是一个设计上想从服务器到桌面应用再到嵌入式全面考�
 （微软：MMP，IE赔了这么多，IE内嵌的Java Applets又tm赔这么一大笔，嘤嘤嘤）
 
 
-###四、java未来发展
+### 四、java未来发展
 
 1、模块化
 
