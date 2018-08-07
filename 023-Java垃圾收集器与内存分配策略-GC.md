@@ -156,3 +156,4 @@ ParNew除了采用多GC线程来实现复制算法以外，其他都与Serial一
 **适用范围**
 - 追求STW短：若ParNew/CMS用的挺好，就用这个；若不符合，用G1
 - 追求吞吐量：用Parallel Scavenge/Parallel Old，而G1在吞吐量方面没有优势
+
