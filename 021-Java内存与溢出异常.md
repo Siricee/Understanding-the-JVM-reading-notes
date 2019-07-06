@@ -1,7 +1,7 @@
 ## 第二部分：自动内存管理机制
 ### §1 - Java内存区域与内存溢出异常
 #### Author：Sirice
-[Sirice-Github](https://github.com/Sirice19/Understanding-the-JVM-reading-notes)
+[Sirice-Github](https://github.com/Siricee/Understanding-the-JVM-reading-notes)
 
 java和C++的设计思路最特色的体现就在于内存回收机制，C++：“垃圾回收这么重要的事情当然要我自己来做”，java：“垃圾回收这么重要的事情当然要虚拟机来做”因此C++有delete/free函数，而java采用GC完成垃圾回收。
 

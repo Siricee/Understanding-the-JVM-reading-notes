@@ -1,7 +1,7 @@
 ## 第二部分：自动内存管理机制
 ### §2 - Java垃圾收集器与内存分配策略-GC
 #### Author：Sirice
-[Sirice-Github](https://github.com/Sirice19/Understanding-the-JVM-reading-notes)
+[Sirice-Github](https://github.com/Siricee/Understanding-the-JVM-reading-notes)
 
 ### 垃圾收集器：
 

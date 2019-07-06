@@ -4,7 +4,7 @@
 
 #### Author：Sirice
 
-[Sirice-Github](https://github.com/Sirice19/Understanding-the-JVM-reading-notes)
+[Sirice-Github](https://github.com/Siricee/Understanding-the-JVM-reading-notes)
 
 ### Java内存模型
 

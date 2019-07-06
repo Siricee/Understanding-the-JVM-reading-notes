@@ -1,7 +1,7 @@
 ## 第二部分：自动内存管理机制
 ### §2 - Java垃圾收集器与内存分配策略-java内存回收算法
 #### Author：Sirice
-[Sirice-Github](https://github.com/Sirice19/Understanding-the-JVM-reading-notes)
+[Sirice-Github](https://github.com/Siricee/Understanding-the-JVM-reading-notes)
 
 java是一个可以自动回收垃圾的语言，但是最早有GC的语言应该是1960年诞生的Lisp语言，当Lisp还在早期发展的时候人们就在思考GC都需要完成哪些工作：
  - 哪些内存需要回收？
